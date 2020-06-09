@@ -18,7 +18,7 @@ Tutorial Membuat BottomSheet Dialog unsur fragment
 
 	implementation 'com.google.android.material:material:1.1.0'
 
-####Kode XML (bottom_sheet.xml)
+#### Kode XML (bottom_sheet.xml)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
